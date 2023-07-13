@@ -7,13 +7,12 @@ metadata:
   tags:
     - playwright
     - javascript
-    - spaship
     - github
     - ci
     - template
 spec:
   owner: shusingh@redhat.com
-  type: website
+  type: service
 
   parameters:
     - title: Provide some simple information
