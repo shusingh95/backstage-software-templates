@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: side-projects-overkill/backstage-software-templates
 spec:
   type: website
-  owner: hybridx
+  owner: shusingh
   lifecycle: production

@@ -9,7 +9,7 @@ metadata:
     - javascript
     - spaship
     - github
-    - ci/cd
+    - ci
     - template
 spec:
   owner: shusingh@redhat.com
