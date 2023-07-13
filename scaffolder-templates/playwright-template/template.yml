@@ -1,18 +1,18 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: vite-react-app-template
-  title: Vite React App Template
-  description: Create a new react website project for gitlab with basic CI/CD pipeline
+  name: playwright-template
+  title: Playwright Template
+  description: Create a new playwright project with basic test cases
   tags:
-    - react
-    - vite
+    - playwright
+    - javascript
     - spaship
     - github
-    - ci
+    - ci/cd
     - template
 spec:
-  owner: hybridx18@gmail.com
+  owner: shusingh@redhat.com
   type: website
 
   parameters:
